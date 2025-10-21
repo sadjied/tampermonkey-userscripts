@@ -7,7 +7,6 @@
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/sadjied/tampermonkey-userscripts/main/guruwatch-halal-ethics.user.js
 // @updateURL    https://raw.githubusercontent.com/sadjied/tampermonkey-userscripts/main/guruwatch-halal-ethics.user.js
-// @require      https://raw.githubusercontent.com/sadjied/tampermonkey-userscripts/main/lib/stock-status.js
 // ==/UserScript==
 
 (function() {
